@@ -1,1 +1,1 @@
-{"client_id":"https://cdn.jsdelivr.net/gh/therocketgui/hkccimd@main/c.json","client_name":"hkc","redirect_uris":["https://evil.example/cb"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
+{"client_id":"https://raw.githack.com/therocketgui/hkccimd/main/c.json","client_name":"hkc","redirect_uris":["https://evil.example/cb"],"grant_types":["authorization_code"],"response_types":["code"],"token_endpoint_auth_method":"none"}
